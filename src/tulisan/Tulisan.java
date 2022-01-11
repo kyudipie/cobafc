@@ -16,7 +16,7 @@ public class Tulisan {
      */
     public static void main(String[] args) {
         System.out.println("Tita adalah bestie vania, rr, bunga, dl");
-        System.out.println("tapi yang 1 sudah tdk menganggap aq bestie :p");
+        System.out.println("oemge :p");
     }
     
 }
